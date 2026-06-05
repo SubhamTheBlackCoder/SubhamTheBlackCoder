@@ -46,7 +46,9 @@ I'm a **Full Stack Engineer** from Rourkela, India — obsessed with building sy
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -81,22 +83,60 @@ I'm a **Full Stack Engineer** from Rourkela, India — obsessed with building sy
 - Fault-tolerant event-driven architecture with dead-letter queues
 - Built to scale horizontally without re-architecture
 
-**Stack:** `Node.js` `AWS Lambda` `DynamoDB` `SQS` `Redis` `PostgreSQL`
+**Stack:** `Node.js` `Spring Boot` `AWS Lambda` `DynamoDB` `SQS` `RabbitMQ` `Redis` `PostgreSQL`
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- 
+  ⚠️  SETUP REQUIRED — Self-host github-readme-stats on Vercel (free, 5 min):
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy to vercel.com → Import that fork → Add env var: PAT_1 = your GitHub token
+  3. Replace YOUR_VERCEL_URL below with your deployment URL
+  Then uncomment these lines:
+-->
+
+<!--
+<div align="center">
+<img height="180em" src="https://YOUR_VERCEL_URL/api?username=SubhamTheBlackCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://YOUR_VERCEL_URL/api/top-langs/?username=SubhamTheBlackCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+-->
+
+<!-- WORKS NOW — No setup needed, uses GitHub's native stats -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhamTheBlackCoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamTheBlackCoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+| Metric | Value |
+|--------|-------|
+| 🌟 Public repos | Check profile |
+| 🔥 Top language | JavaScript / Node.js |
+| ☁️ Main stack | AWS + Serverless |
+| 📅 Active since | 2023 |
 
 </div>
 
+---
+
+## 🔥 GitHub Streak
+
+<!-- 
+  ⚠️  SETUP REQUIRED for streak card — Self-host:
+  1. Fork https://github.com/DenverCoder1/github-readme-streak-stats
+  2. Deploy to Vercel, add env vars: TOKEN = GitHub token
+  3. Replace YOUR_STREAK_URL below and uncomment:
+-->
+
+<!--
+[![GitHub Streak](https://YOUR_STREAK_URL?user=SubhamTheBlackCoder&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+-->
+
+<!-- Reliable fallback — always works -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SubhamTheBlackCoder&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+> 🎯 **Consistency target:** Commit every day — even docs, refactors, or small fixes count.
+> 
+> View my live streak at → [github.com/SubhamTheBlackCoder](https://github.com/SubhamTheBlackCoder)
 
 </div>
 
@@ -104,9 +144,23 @@ I'm a **Full Stack Engineer** from Rourkela, India — obsessed with building sy
 
 ## 🏆 GitHub Trophies
 
+<!-- 
+  ⚠️  SETUP REQUIRED — Self-host:
+  1. Fork https://github.com/ryo-ma/github-profile-trophy
+  2. Deploy to Vercel → add env var GITHUB_TOKEN
+  3. Replace YOUR_TROPHY_URL and uncomment:
+-->
+
+<!--
+[![trophy](https://YOUR_TROPHY_URL/?username=SubhamTheBlackCoder&theme=onestar&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<!-- Working alternative using shields.io — always loads -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SubhamTheBlackCoder&theme=onestar&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/Total_Commits-Climbing_🔥-1D9E75?style=for-the-badge)
+![PRs](https://img.shields.io/badge/Pull_Requests-Open_Source_Ready-0C447C?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-Growing_⭐-ED8B00?style=for-the-badge)
 
 </div>
 
